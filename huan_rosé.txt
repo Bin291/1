@@ -1,2 +1,3 @@
 tao la huan hoa hong
 ban tay co 9 ngon ruoi
+them 0.5 ngon thanh 10
